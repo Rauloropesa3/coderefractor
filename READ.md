@@ -1,0 +1,1 @@
+I refractored the HTML file, i also added images and alt attributes to the images incase the images dont appear or if the user is using a screen reader.
